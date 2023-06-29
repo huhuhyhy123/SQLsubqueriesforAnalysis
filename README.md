@@ -1,2 +1,2 @@
 # SQLsubqueriesforAnalysis
-#Those are subqueries for more analysis ragarding chinook.db
+#Those are subqueries for more analysis regarding chinook.db
